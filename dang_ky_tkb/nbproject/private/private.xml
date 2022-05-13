@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/DAO/DAO.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/DAO/ThoiKhoaBieu_DAO.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/web/ChinhSuaMK.jsp</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/web/DangNhap.jsp</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/web/QuanLyLHP_admin.jsp</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/web/XemTKB.jsp</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/web/index.jsp</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/model/LopHocPhan_model.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/controller/QuanLyLHP_admin_servlet.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/web/LuaChon_admin.jsp</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/controller/DangKyTKB_servlet.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/controller/DangNhap_servlet.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/controller/LuaChon_servlet.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/web/LuaChon.jsp</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/web/QuanLySV_admin.jsp</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/controller/LuaChon_admin_servlet.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/controller/QuanLySV_admin_servlet.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/DAO/LopHocPhan_DAO.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/controller/ChinhSuaMK_servlet.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/controller/XemTKB_servlet.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/src/java/DAO/SinhVien_DAO.java</file>
+            <file>file:/D:/Tài%20liệu%20sếp%20Quyết/năm%20III%20kì%201/cơ%20sở%20dữ%20liệu/btl_csdl/dang_ky_tkb/web/DangKyTKB.jsp</file>
+        </group>
+    </open-files>
+</project-private>
